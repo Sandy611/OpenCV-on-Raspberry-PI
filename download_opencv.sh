@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 set -ex
 
 OPENCV_VERSION=4.1.2
