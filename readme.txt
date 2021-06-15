@@ -1,4 +1,4 @@
-Install OpenCV 4.1.2 on Raspbian Buster:-
+Install OpenCV 4.1.2 on Raspbian Buster: -
 $ chmod +x *.sh
 $ ./download_opencv.sh
 $ ./install_deps.sh
